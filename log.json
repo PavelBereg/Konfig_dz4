@@ -1,0 +1,72 @@
+[
+    {
+        "line": 1,
+        "instruction": "LOAD_CONSTANT 419 0",
+        "binary": "34000000D180"
+    },
+    {
+        "line": 2,
+        "instruction": "LOAD_CONSTANT 420 1",
+        "binary": "34000000D201"
+    },
+    {
+        "line": 3,
+        "instruction": "LOAD_CONSTANT 421 2",
+        "binary": "34000000D282"
+    },
+    {
+        "line": 4,
+        "instruction": "LOAD_CONSTANT 422 3",
+        "binary": "34000000D303"
+    },
+    {
+        "line": 5,
+        "instruction": "LOAD_CONSTANT 423 4",
+        "binary": "34000000D384"
+    },
+    {
+        "line": 6,
+        "instruction": "LOAD_CONSTANT 424 5",
+        "binary": "34000000D405"
+    },
+    {
+        "line": 7,
+        "instruction": "LOAD_CONSTANT 425 6",
+        "binary": "34000000D486"
+    },
+    {
+        "line": 8,
+        "instruction": "SQRT 0 0",
+        "binary": "240000000000"
+    },
+    {
+        "line": 9,
+        "instruction": "SQRT 1 1",
+        "binary": "242000000001"
+    },
+    {
+        "line": 10,
+        "instruction": "SQRT 2 2",
+        "binary": "244000000002"
+    },
+    {
+        "line": 11,
+        "instruction": "SQRT 3 3",
+        "binary": "246000000003"
+    },
+    {
+        "line": 12,
+        "instruction": "SQRT 4 4",
+        "binary": "248000000004"
+    },
+    {
+        "line": 13,
+        "instruction": "SQRT 5 5",
+        "binary": "24A000000005"
+    },
+    {
+        "line": 14,
+        "instruction": "SQRT 6 6",
+        "binary": "24C000000006"
+    }
+]
